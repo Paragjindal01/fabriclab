@@ -1,5 +1,7 @@
 # FabricLab
 
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
 FabricLab is a browser-based network planner for fictional Ethernet and InfiniBand deployments. Place devices with the mouse, touch controls, or the keyboard. Build cables, define access and trunk VLAN assignments, and inspect port reuse, subnet overlap, aggregate link capacity, and single-cable failure results.
 
 ## Run
